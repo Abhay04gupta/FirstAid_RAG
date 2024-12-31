@@ -1,4 +1,4 @@
-# Medical_RAG (Retrieval-Augmented Generation)
+# FirstAid_RAG (Retrieval-Augmented Generation)
 
 ## Overview
 The **Medical RAG** project is a Retrieval-Augmented Generation system tailored for answering medical-related queries using contextual information. The system combines text retrieval and generation capabilities to provide accurate and concise answers. It uses a Hugging Face-based large language model (LLM) with FAISS for efficient similarity-based search over a collection of medical documents.
